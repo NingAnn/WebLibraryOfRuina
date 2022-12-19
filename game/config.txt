@@ -1,0 +1,5 @@
+Game_name:Library Of Ruina;
+Game_key:WebLibraryOfRuina;
+Title_img:mainhome.png;
+Title_bgm:lobby.mp3;
+Loading_img:lobby.jpg;
