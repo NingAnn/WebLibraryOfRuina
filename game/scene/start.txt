@@ -1,2 +1,1 @@
-choose:传闻:chuanwen.txt
-
+choose:传闻:chuanwen.txt|EX[Doki Doki EDITOR!]-文学层解放:tuifan.txt;
